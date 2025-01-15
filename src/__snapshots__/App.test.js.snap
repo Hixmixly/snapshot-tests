@@ -13,6 +13,9 @@ exports[`renders a snapshot 1`] = `
       src="logo.svg"
     />
     <p>
+      <h2>
+        folshfhds
+      </h2>
       Edit 
       <code>
         src/App.js
