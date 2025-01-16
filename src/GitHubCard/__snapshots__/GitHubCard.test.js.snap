@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard Snapshot renders correctly 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="/pictures/profile-pic.jpg"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      https://github.com/Hixmixly
+    </div>
+    <p
+      className="card-text"
+    >
+      I like painting, movies, and exerciseing. One of my goals is to work in the gaming industry, the main dream being game designer but I would settle for working in the art department. Working in the art field would also be nice.
+    </p>
+  </div>
+</div>
+`;
